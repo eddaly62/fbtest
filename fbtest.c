@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 {
 
     if (argc != 2) {
-		printf("Usage: ./fbinfo /dev/fb0\n");
+		printf("Usage: ./fbtest /dev/fb0\n");
 		exit(1);
 	}
  
